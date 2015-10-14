@@ -15,7 +15,7 @@ void printDepositMenu();
 
     int main(){
         int input;
-        Coins myCoins(10, 5, 3, 4);
+        Coins myCoins(10, 5, 3, 2);
         printMainMenu();
         while (cin >> input){
             

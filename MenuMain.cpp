@@ -90,6 +90,7 @@ void printDepositMenu();
 }
 
 void printMainMenu(){
+    cout << "\n";
     cout << "===================Coin Menu 9001====================\n";
     cout << "Enter the corresponding number with the menu choice you want.\n";
     cout << "1. Deposit Coins.\n";
